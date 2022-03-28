@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @CrossBon3
+# 👋 Hi, I’m @CrossBon3
+
 - 👀 I’m interested in games
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on ...
